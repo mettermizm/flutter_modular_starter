@@ -14,7 +14,7 @@ Bu proje, modüler mimariyle organize edilmiş bir Flutter uygulama iskeletidir.
 - Otomatikleştirilmiş proje oluşturma scripti (PowerShell)
 
 ## 🗂️ Klasör Yapısı
-lib/
+lib/                                                                                                                                                                                    
 ├── core/
 │   └── router/
 │       └── router.dart
