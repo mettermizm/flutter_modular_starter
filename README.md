@@ -14,10 +14,10 @@ Bu proje, modüler mimariyle organize edilmiş bir Flutter uygulama iskeletidir.
 - Otomatikleştirilmiş proje oluşturma scripti (PowerShell)
 
 ## 🗂️ Klasör Yapısı
-lib/                                                                                                                                                                                    
-├── core/                                                                                                                                                                                                                    
-│   └── router/                                                                                                                                                                                        
-│       └── router.dart                                                                                                                                                                                                                                        
+lib/
+├── core/
+│   └── router/
+│       └── router.dart
 ├── data/
 │   ├── classes/
 │   ├── constants/
@@ -51,11 +51,11 @@ lib/
 │   │   ├── screens/
 │   │   └── widgets/
 │   └── shared/
-│   │   ├── cubits/
-│   │   │   ├── theme_cubit.dart
-│   │   │   └── locale_cubit.dart
-│   │   ├── screens/
-│   │   └── widgets/
+│       ├── cubits/
+│       │   ├── theme_cubit.dart
+│       │   └── locale_cubit.dart
+│       ├── screens/
+│       └── widgets/
 
 ## 🧩 Kullanılan Paketler
 
