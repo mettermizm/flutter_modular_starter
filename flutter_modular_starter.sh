@@ -203,7 +203,16 @@ class ThemeCubit extends Cubit<ThemeMode> {
   void changeTheme(ThemeMode themeMode) {
     emit(themeMode);
   }
+
+  void toggleTheme() {
+    if (state == ThemeMode.light) {
+      emit(ThemeMode.dark);
+    } else if (state == ThemeMode.dark) {
+      emit(ThemeMode.light);
+    } else {emit(ThemeMode.light);}
+  }
 }
+
 EOF
 
 # Renk sabitleri
