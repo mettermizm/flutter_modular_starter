@@ -1,3 +1,5 @@
+# !!! Şimdilik sadece MAC ve LINUX'ta çalışır
+
 # 🎯 Flutter Modular Project Scaffold
 
 Bu proje, modüler mimariyle organize edilmiş bir Flutter uygulama iskeletidir. Tema ve dil değişimi gibi temel özelliklerle birlikte gelir. Yeni projelere hızlıca başlamak için idealdir.
