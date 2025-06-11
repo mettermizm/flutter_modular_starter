@@ -15,9 +15,9 @@ Bu proje, modüler mimariyle organize edilmiş bir Flutter uygulama iskeletidir.
 
 ## 🗂️ Klasör Yapısı
 lib/                                                                                                                                                                                    
-├── core/                                                                                                                                                                                
-│   └── router/
-│       └── router.dart
+├── core/                                                                                                                                                                                                                    
+│   └── router/                                                                                                                                                                                        
+│       └── router.dart                                                                                                                                                                                                                                        
 ├── data/
 │   ├── classes/
 │   ├── constants/
